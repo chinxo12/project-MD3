@@ -1,0 +1,38 @@
+.mainInput .basicInfomation{
+    background-color: white;
+    padding: 50px;
+    margin: 50px;
+}
+.mainInput .basicInfomation h2{
+    margin-bottom: 20px;
+}
+.mainInput .sellInformation{
+    background-color: white;
+    padding: 50px;
+    margin: 50px;
+}
+.mainInput .sellInformation h2{
+    margin-bottom: 20px;
+}
+.mainInput .sellInformation .input-group-text input{
+    display: inline;
+   margin-left: 40px;
+}
+.mainInput .sellInformation .classifiedList{
+    padding: 15px;
+}
+.mainInput .sellInformation table  input{
+    width: 80px ;
+}
+.mainInput .confirm{
+    display: flex;
+    margin-right: 110px;
+    justify-content: right;
+}
+.mainInput .confirm button{
+  margin-left: 10px;
+}
+.confirmDetailProduct {
+    text-align: right ;
+    margin-top: 30px;
+}

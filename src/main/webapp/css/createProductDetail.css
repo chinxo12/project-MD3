@@ -1,0 +1,26 @@
+.content .classifiedList .table input{
+    display: inline;
+    margin-left: 40px;
+}
+.mainInput .classifiedList .table{
+    padding: 15px;
+    text-align: center;
+}
+.content .classifiedList table td  input{
+    width: 80px ;
+}
+.mainInput .confirm{
+    display: flex;
+    margin-right: 110px;
+    justify-content: right;
+}
+.mainInput .confirm button{
+    margin-left: 10px;
+}
+.mainInput .classifiedList .table .th{
+    padding: 15px;
+    text-align: center;
+}
+.content .classifiedList table .input-group  {
+    width: 200px ;
+}
